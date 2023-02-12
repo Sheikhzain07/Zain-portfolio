@@ -50,11 +50,11 @@ function About() {
           </Link>
           <Text fontWeight={"500"}>
             I am a Full Stack Web Developer and I have knowledge in HTML, CSS,
-            JS, REACT and I make user-friendly websites.
+            JavaScript, ReactJS and I make user-friendly websites.
           </Text>
           <Link
             _hover={{ textDecoration: "none" }}
-            href="https://drive.google.com/file/d/1hRFRBTyS0cEHAuD4PQ4xJdRHzqNXrey_/view?usp=sharing"
+            href="https://drive.google.com/file/d/1fuDi_VYIJRypKSWonwnFEvc2UXqDPGcg/view?usp=sharing"
           >
             <Button mt={"10px"} colorScheme="red">
               Resume

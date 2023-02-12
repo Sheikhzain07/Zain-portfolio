@@ -16,10 +16,6 @@ function Navlinks() {
   const navLinks = [
     {
       path: "/",
-      title: "Home",
-    },
-    {
-      path: "/",
       title: "About Me",
     },
     {
@@ -62,7 +58,7 @@ function Navlinks() {
         ))}
         <Link
           _hover={{ textDecoration: "none" }}
-          href="https://drive.google.com/file/d/1hRFRBTyS0cEHAuD4PQ4xJdRHzqNXrey_/view?usp=sharing"
+          href="https://drive.google.com/file/d/1fuDi_VYIJRypKSWonwnFEvc2UXqDPGcg/view?usp=sharing"
         >
           <Button colorScheme={"red"}>Resume</Button>
         </Link>

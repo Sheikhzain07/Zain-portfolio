@@ -1,5 +1,17 @@
 export const data = [
   {
+    title: "Khareedo Store",
+    description:
+      "An individual E-commerce project named Khareedo-store build with ReactJS. It has landing page, products page where user can search, filter, sort the products of his/her choice, add the product to their cart. Signup and login feature using firebase authentication.",
+    img1: require("./../../Images/khareedo (1).png"),
+    img2: require("./../../Images/khareedo (4).png"),
+    img3: require("./../../Images/khareedo (3).png"),
+    img4: require("./../../Images/khareedo (2).png"),
+    techStacks: ["HTML", "CSS", "JavaScript", "ReactJS", "Firebase"],
+    github: "https://github.com/Sheikhzain07/Khareedo-Store",
+    live: "https://khareedo-app.netlify.app/",
+  },
+  {
     title: "MasaiKart",
     description:
       "Masaikart is an E-commerce Full Stack website, where user can buy various products according to their needs. A collaborative project built by 2 Developers within 9 days. My key responsibility was to make sure the flow of the website and implement the sort , filter , search etc..",

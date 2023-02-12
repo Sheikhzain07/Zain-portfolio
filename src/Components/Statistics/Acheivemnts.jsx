@@ -17,7 +17,7 @@ function Acheivemnts() {
     {
       title: "DSA ",
       type: "Solved",
-      number: "500+",
+      number: "100+",
     },
     {
       title: "Commits",
